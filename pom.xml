@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jsch-agent-proxy</groupId>
   <artifactId>jsch-agent-proxy</artifactId>
-  <version>0.0.3</version>
+  <version>0.0.4-SNAPSHOT</version>
   <name>jsch-agent-proxy</name>
   <description>
     ssh-agent adapter for java
